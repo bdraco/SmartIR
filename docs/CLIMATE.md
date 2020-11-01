@@ -250,6 +250,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [1286](../codes/climate/1286.json) | AR-JE5 (Remote control)                     | Broadlink  |
 | [1287](../codes/climate/1287.json) | AR-REB1E (Remote control)                   | Broadlink  |
 | [1288](../codes/climate/1288.json) | AR-REB1E (Remote control)                   | Broadlink  |
+| [1289](../codes/climate/1289.json) | AR-RAH2U (Remote control)                   | Broadlink  |
 
 #### Sharp
 | Code                               | Supported Models | Controller |
@@ -545,6 +546,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models       | Controller |
 | ---------------------------------- | ---------------------- | ---------- |
 | [2340](../codes/climate/2340.json) | VOR-12C3/407           | Broadlink  |
+<<<<<<< HEAD
+=======
 
 #### Flouu
 | Code                               | Supported Models       | Controller |
@@ -570,3 +573,4 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models       | Controller |
 | ---------------------------------- | ---------------------- | ---------- |
 | [2440](../codes/climate/2440.json) | ClimaVair VAI 8-025    | Broadlink  |
+>>>>>>> delay_between_commands
